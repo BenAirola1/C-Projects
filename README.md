@@ -1,2 +1,2 @@
-# COEN-12
-This repository contains all of my C projects from computer engineering 12 at SCU.
+# C Projects
+This repository contains a number of projects written in the C coding language.
