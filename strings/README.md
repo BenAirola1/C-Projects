@@ -1,1 +1,1 @@
-This abstract data type program reimplements the string class using structs.
+This program creates a set abstract data type for strings.
